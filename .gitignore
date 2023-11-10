@@ -1,0 +1,20 @@
+# swap files and temp files
+*.swp
+.~
+
+# pdf
+*.pdf
+
+# executables, libraries, objects
+*.o
+*.obj
+*.lib
+*.so
+*.out
+*.a
+*.d
+
+# eclipse
+.cproject
+.project
+.settings/
