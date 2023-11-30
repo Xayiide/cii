@@ -64,6 +64,8 @@ int main()
     printf("\n\n\n");
     no_memory_overwrite(s);
 
+    stack_free(&s);
+
     return 0;
 }
 
